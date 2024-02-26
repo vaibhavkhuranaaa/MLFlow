@@ -66,9 +66,10 @@ For detailed documentation on MLflow, refer to [MLflow Documentation](https://ml
 Set up DagsHub for tracking and version control:
 
 ```bash
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
-export MLFLOW_TRACKING_USERNAME=entbappy 
-export MLFLOW_TRACKING_PASSWORD=<your_password>
+export MLFLOW_TRACKING_URI=https://dagshub.com/vaibhavkhuranaaa/MLFlow.mlflow
+export MLFLOW_TRACKING_USERNAME=vaibhavkhuranaaa
+export MLFLOW_TRACKING_PASSWORD=434a6ec1a38f52ebd3ca0435cfef94c0201b8c3d
+
 ```
 
 ## AWS CI/CD Deployment with GitHub Actions
